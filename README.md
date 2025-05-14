@@ -1,5 +1,5 @@
 ## 📘 Shakoai Foundation Website
-🔗 [Website Link](https://cmotau-bit.github.io/Web-Week8-Assignment/about.html)
+🔗 [Website Link](https://cmotau-bit.github.io/Web-Week8-Assignment/index.html)
 
 ### 🌐 Overview
 The Shakoai Foundation website is simple, responsive, and accessible, designed to showcase the foundation’s mission, vision, team, and engagement opportunities. It includes pages for:
